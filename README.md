@@ -34,39 +34,71 @@ Foodie Fuel simplifies the cooking journey with quick, healthy, and budget-frien
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* As a user, I want to be able to browse a variety of quick, healthy, and budget-friendly recipes.
+* As a user, I want the ability to search for recipes based on my dietary preferences and ingredient availability.
+* As a user, I want to save my favorite recipes for easy access.
+* As a user, I want step-by-step cooking instructions with clear visuals for each recipe.
+* As a user, I want to customize and save my meal plans for the week.
+* As a user, I want to receive notifications for new recipes or cooking tips.
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* As a user, I want to be able to share my favorite recipes on social media.
+* As a user, I want to explore themed recipe collections or curated meal plans.
+* As a user, I want to receive personalized recommendations based on my cooking history.
+* As a user, I want to track my grocery list based on selected recipes.
+* As a user, I want to connect with a community of fellow cooking enthusiasts to share tips and experiences.
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
+- [ ] **Home**
+  * Browsing featured and new recipes.
+  * Associated Required Story: As a user, I want to be able to browse a variety of quick, healthy, and budget-friendly recipes.
+
+- [ ] **Search**
+  * Searching for recipes based on dietary preferences and ingredient availability.
+  * Associated Required Story: As a user, I want the ability to search for recipes based on my dietary preferences and ingredient availability.
+
+- [ ] **Recipe Details**
+  * Viewing detailed information, ingredients, and step-by-step instructions for a selected recipe.
+  * Associated Required Story: As a user, I want step-by-step cooking instructions with clear visuals for each recipe.
+
+- [ ] **Favorites**
+  * Saving and accessing favorite recipes.
+  * Associated Required Story: As a user, I want to save my favorite recipes for easy access.
+
+- [ ] **Meal Planner**
+  * Creating and customizing weekly meal plans.
+  * Associated Required Story: As a user, I want to customize and save my meal plans for the week.
+
+- [ ] **Notifications**
+  * Receiving notifications for new recipes or cooking tips.
+  * Associated Required Story: As a user, I want to receive notifications for new recipes or cooking tips.
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home
+* Search
+* Favorites
+* Meal Planner
+* Notifications
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
-* ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+- Home
+  * Tap on a recipe card to go to Recipe Details
+- Search
+  * Enter search criteria and tap on a search result to go to Recipe Details
+- Recipe Details
+  * Save to Favorites or add to Meal Planner
+- Favorites
+  * Tap on a saved recipe to go to Recipe Details
+- Meal Planner
+  * View or edit saved meal plans
+- Notifications
+  * Tap on a notification to view related content or go to Recipe Details
 
 ## Wireframes
 
