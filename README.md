@@ -34,46 +34,46 @@ Foodie Fuel simplifies the cooking journey with quick, healthy, and budget-frien
 
 **Required Must-have Stories**
 
-* As a user, I want to be able to browse a variety of quick, healthy, and budget-friendly recipes.
-* As a user, I want the ability to search for recipes based on my dietary preferences and ingredient availability.
-* As a user, I want to save my favorite recipes for easy access.
-* As a user, I want step-by-step cooking instructions with clear visuals for each recipe.
-* As a user, I want to customize and save my meal plans for the week.
-* As a user, I want to receive notifications for new recipes or cooking tips.
+- As a user, I want to be able to browse a variety of quick, healthy, and budget-friendly recipes.
+- As a user, I want the ability to search for recipes based on my dietary preferences and ingredient availability.
+- As a user, I want to save my favorite recipes for easy access.
+- As a user, I want step-by-step cooking instructions with clear visuals for each recipe.
+- As a user, I want to customize and save my meal plans for the week.
+- As a user, I want to receive notifications for new recipes or cooking tips.
 
 **Optional Nice-to-have Stories**
 
-* As a user, I want to be able to share my favorite recipes on social media.
-* As a user, I want to explore themed recipe collections or curated meal plans.
-* As a user, I want to receive personalized recommendations based on my cooking history.
-* As a user, I want to track my grocery list based on selected recipes.
-* As a user, I want to connect with a community of fellow cooking enthusiasts to share tips and experiences.
+- As a user, I want to be able to share my favorite recipes on social media.
+- As a user, I want to explore themed recipe collections or curated meal plans.
+- As a user, I want to receive personalized recommendations based on my cooking history.
+- As a user, I want to track my grocery list based on selected recipes.
+- As a user, I want to connect with a community of fellow cooking enthusiasts to share tips and experiences.
 
 ### 2. Screen Archetypes
 
 - [ ] **Home**
-  * Browsing featured and new recipes.
-  * Associated Required Story: As a user, I want to be able to browse a variety of quick, healthy, and budget-friendly recipes.
+  - Browsing featured and new recipes.
+  - Associated Required Story: As a user, I want to be able to browse a variety of quick, healthy, and budget-friendly recipes.
 
 - [ ] **Search**
-  * Searching for recipes based on dietary preferences and ingredient availability.
-  * Associated Required Story: As a user, I want the ability to search for recipes based on my dietary preferences and ingredient availability.
+  - Searching for recipes based on dietary preferences and ingredient availability.
+  - Associated Required Story: As a user, I want the ability to search for recipes based on my dietary preferences and ingredient availability.
 
 - [ ] **Recipe Details**
-  * Viewing detailed information, ingredients, and step-by-step instructions for a selected recipe.
-  * Associated Required Story: As a user, I want step-by-step cooking instructions with clear visuals for each recipe.
+  - Viewing detailed information, ingredients, and step-by-step instructions for a selected recipe.
+  - Associated Required Story: As a user, I want step-by-step cooking instructions with clear visuals for each recipe.
 
 - [ ] **Favorites**
-  * Saving and accessing favorite recipes.
-  * Associated Required Story: As a user, I want to save my favorite recipes for easy access.
+  - Saving and accessing favorite recipes.
+  - Associated Required Story: As a user, I want to save my favorite recipes for easy access.
 
 - [ ] **Meal Planner**
-  * Creating and customizing weekly meal plans.
-  * Associated Required Story: As a user, I want to customize and save my meal plans for the week.
+  - Creating and customizing weekly meal plans.
+  - Associated Required Story: As a user, I want to customize and save my meal plans for the week.
 
 - [ ] **Notifications**
-  * Receiving notifications for new recipes or cooking tips.
-  * Associated Required Story: As a user, I want to receive notifications for new recipes or cooking tips.
+  - Receiving notifications for new recipes or cooking tips.
+  - Associated Required Story: As a user, I want to receive notifications for new recipes or cooking tips.
 
 ### 3. Navigation
 
