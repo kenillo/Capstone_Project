@@ -32,11 +32,11 @@ BarcodeScanner is a user-friendly app designed to simplify shopping and product 
 **Required Must-have Stories**
 
 - As a user, I want to scan barcodes to retrieve product information.
-- As a user, I want to compare prices by scanning barcodes of different products.
 - ...
 
 **Optional Nice-to-have Stories**
 
+- As a user, I want to compare prices by scanning barcodes of different products.
 - As a user, I want to receive personalized product recommendations based on my scanning history.
 - As a user, I want to read and submit product reviews through the app.
 - ...
