@@ -78,16 +78,28 @@ BarcodeScanner is a user-friendly app designed to simplify shopping and product 
 
 ![BarcodeScannerApp](https://github.com/kenillo/Capstone_Project/assets/102697972/914138f9-a6e6-4f7e-b7f8-80daefa837be)
 
-## Schema 
-
-[This section will be completed in Unit 9]
+## Schema
 
 ### Models
 
-[Add a table of models]
+#### ScannedProduct
+
+| Property      | Type     | Description                              |
+| ------------- | -------- | ---------------------------------------- |
+| objectId      | String   | Unique identifier for the scanned product |
+| name          | String   | Name of the product                      |
+| barcode       | String   | Barcode associated with the product      |
+| price         | Number   | Price of the product                     |
+| description   | String   | Brief description of the product         |
+| createdAt     | DateTime | Timestamp indicating when the scan was added |
 
 ### Networking
 
-- [Add a list of network requests by screen]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using an existing API such as Amazon Product Advertising API]
+- **List of network requests by screen:**
+  - Home Screen
+    - (Read/GET) Retrieve the list of recently scanned products
+  - Product Details Screen
+    - (Read/GET) Retrieve detailed information about a scanned product
+  - Scan History Screen
+    - (Read/GET) Retrieve the list of previously scanned products
+    - (Create/POST) Add a new scanned product to the history
