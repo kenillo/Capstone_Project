@@ -76,6 +76,8 @@ BarcodeScanner is a user-friendly app designed to simplify shopping and product 
 
 ### [BONUS] Interactive Prototype
 
+![BarcodeScannerApp](https://github.com/kenillo/Capstone_Project/assets/102697972/914138f9-a6e6-4f7e-b7f8-80daefa837be)
+
 ## Schema 
 
 [This section will be completed in Unit 9]
