@@ -33,11 +33,13 @@ Mobile App Dev - App Brainstorming
    - A fitness app that generates quick, personalized workout routines based on user preferences, time constraints, and available equipment. Perfect for users looking for efficient and adaptable exercise options on the go.
 3. FlashCard Forge
    - An app that allows users to easily create and share digital flashcards for efficient studying. With features like image support, voice recording, and collaborative decks, it's perfect for students, language learners, or anyone looking to enhance their memory.
-
+4. Barcode Scanner
+   - An app designed to scan barcodes efficiently, providing users with instant information about products. It can be used for price comparison, product details, and online shopping convenience.
+     
 ## Top 3 New App Ideas
-1. Foodie Fuel
-2. QuickFit Buddy
-3. FlashCard Forge
+1. Barcode Scanner
+2. Foodie Fuel
+4. FlashCard Forge
 
 ## New App Ideas - Evaluate and Categorize
 1. Foodie Fuel
